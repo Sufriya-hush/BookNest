@@ -75,7 +75,7 @@ java -cp out LibraryApp
 
 ## Author
 
-Your Name
+**Sufriya Hussain R
 
 ## Project Type
 
